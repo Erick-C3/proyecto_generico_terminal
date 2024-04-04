@@ -1,4 +1,6 @@
 # proyecto_generico_terminal
 
 
-> contiene una muestra de codigo generico con la funcion main y comentarios detallando cada seccion
+> contiene el codigo base para proyectos a desarrollar
+
+_Usar esta version para trabajar_
